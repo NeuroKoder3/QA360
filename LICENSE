@@ -1,26 +1,47 @@
-QA360 - Proprietary License (All Rights Reserved)
+QA360 - No-Modification License (Source-Available)
 
 Copyright (c) 2026
 All rights reserved.
 
-NOTICE: This software and its source code are proprietary and confidential.
+Purpose
+-------
+This license is intended to let people use QA360, test it, and provide feedback,
+while preventing distribution of modified versions or derivative works.
 
-No License Granted
------------------
-No permission is granted to any person or entity to use, copy, modify, merge,
-publish, distribute, sublicense, sell, or otherwise exploit any part of this
-software or its source code for any purpose.
+Permissions
+-----------
+Subject to the restrictions below, you are granted a limited, revocable,
+non-exclusive, non-transferable license to:
 
-You may not:
-- Copy or redistribute the code, in whole or in part.
-- Modify the code and distribute the modified version.
-- Rebrand, repackage, or represent this work as your own.
-- Use this work (or substantial portions of it) in another product or service.
+1) Use and run this software for any purpose (including evaluation, demos,
+   internal use, and testing).
+2) Copy and redistribute UNMODIFIED copies of:
+   - this repository, and/or
+   - compiled builds/releases of this software,
+   provided that you keep this LICENSE file intact and include it with any
+   redistributed copy.
+
+Restrictions (No Derivatives / No Modification)
+----------------------------------------------
+You may NOT, without prior written permission from the copyright holder(s):
+
+- Modify, adapt, translate, or create derivative works based on the software or
+  its source code.
+- Distribute, publish, or make available any modified version (including forks
+  with changes).
+- Remove or alter copyright, license, or attribution notices.
+- Misrepresent authorship or claim this work as your own.
+
+Feedback
+--------
+You may provide feedback, ideas, and suggestions. By providing feedback, you
+grant the copyright holder(s) a perpetual, worldwide, royalty-free license to
+use that feedback for any purpose, without obligation to you.
 
 Ownership
 ---------
 This software and all associated intellectual property rights are owned by the
-copyright holder(s). Unauthorized use is strictly prohibited.
+copyright holder(s). All rights not expressly granted are reserved.
 
 No Warranty
 -----------

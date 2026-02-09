@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Builds / outputs
+dist/
+dist-electron/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Vite
+.vite/
+
+# Electron Builder cache
+*.blockmap
+
+# Coverage
+coverage/
+
+# Local IDE settings
+.vscode/
+.idea/
+
